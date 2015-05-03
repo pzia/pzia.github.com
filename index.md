@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Pzia blog
+tagline: Quick notes on various stuff
 ---
 {% include JB/setup %}
     
